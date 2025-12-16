@@ -106,9 +106,6 @@ System Design
 Cloud Deployments
 
 
-
-![Thanks](https://github.com/user-attachments/assets/c79cc9e1-ae85-4f43-8998-aad91b574533)
-
 Performance Optimization
 
 🎯 Career Goal
@@ -118,3 +115,6 @@ To work as a top-tier AI + Full-Stack Engineer, building intelligent application
 ⚡ Fun Quote
 
 "Smart engineering is not about writing more code — it’s about writing the right code."
+
+
+![Thanks](https://github.com/user-attachments/assets/c79cc9e1-ae85-4f43-8998-aad91b574533)
