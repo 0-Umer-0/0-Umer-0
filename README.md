@@ -8,7 +8,7 @@
 </p>
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, HEY MUHAMMAD UMER AKMAL HERE</h1>
  <h3 align="center">Freelancer from Pakistan.</h3>
-![Thanks](https://github.com/user-attachments/assets/c79cc9e1-ae85-4f43-8998-aad91b574533)
+
 
 
 
@@ -104,6 +104,10 @@ Agent Orchestration
 System Design
 
 Cloud Deployments
+
+
+
+![Thanks](https://github.com/user-attachments/assets/c79cc9e1-ae85-4f43-8998-aad91b574533)
 
 Performance Optimization
 
